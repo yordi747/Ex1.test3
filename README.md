@@ -66,5 +66,9 @@ Multiplies the polynomial by a scalar.
 
 
 
+![WhatsApp Image 2025-11-30 at 23 14 21_bf9b7bc5](https://github.com/user-attachments/assets/0b7bacde-b365-4139-937e-3a611bfd63fd)
+
+
+
 
 
