@@ -1,4 +1,4 @@
-Ex01 - Investigating Polynomials
+Ex01 - Investigating Polynomials Functions
 
 This project is an assignment in Introduction to Computer Science in Arial university.
 The goal is to implement various functions for analyzing and working with polynomials, using arrays and basic algorithmic techniques.
