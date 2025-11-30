@@ -11,7 +11,7 @@ Recursive methods
 Polynomial operations
 Implemented Functions
 
-1. f()
+1. f
    
 Calculates the value of a polynomial for a given x.
 
@@ -19,33 +19,35 @@ Calculates the value of a polynomial for a given x.
    
 Finds a root of the polynomial using a recursive method.
 
-5. polyFromPoints()
+5. polyFromPoints
+   
 Constructs a polynomial from 2 or 3 distinct points.
 
-6. equals()
+7. equals
+   
 Checks if two polynomials are identical.
 
-7. poly
+9. poly
    
 Converts an array representation of a polynomial into a readable string.
-
 
 9. sameValue
    
 Finds the points where two polynomials intersect.
 
-8. length()
+8. length
    
 Calculates the length of the polynomial curve between two points.
 
-9. area()
+9. area
    
 Calculates the area between two polynomials using a Riemann-like integration method.
 
 10. getPolynomFromString
     
-The opposite of poly():
-Takes a polynomial string and converts it into an array
+The opposite of poly
+
+11. Takes a polynomial string and converts it into an array
 (works only with the exact string format returned by poly()).
 
 12. add
@@ -62,7 +64,7 @@ Computes the derivative of a polynomial.
 
 18. mp
     
-Multiplies the polynomial by a scalar.
+Multiplies the polynomial by a number.
 
 
 
