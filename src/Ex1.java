@@ -130,19 +130,24 @@ public class Ex1 {
      */
     public static String poly(double[] poly) {
         String ans = "";
+
         if (poly.length == 0) {
             ans = "0";
         } else {
             for (int i = poly.length - 1; i >= 0; i--) {
                 double c = poly[i];
-                if (c == 0) continue;
-                if (!ans.equals("") && c > 0) ans += " +";
-                if (c < 0) ans += " ";
-                if (i == 0) ans += c;
-                else if (i == 1) ans += c + "x";
-                else ans += c + "x^" + i;
+
+                if (c != 0) {
+                    if (!ans.equals("") && c > 0) ans += " +";
+                    if (c < 0) ans += " ";
+
+                    if (i == 0) ans += c;
+                    else if (i == 1) ans += c + "x";
+                    else ans += c + "x^" + i;
+                }
             }
         }
+
         if (ans.equals("")) ans = "0";
         return ans;
     }
