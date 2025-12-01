@@ -5,10 +5,10 @@ The goal is to implement various functions for analyzing and working with polyno
 
 The project demonstrates my understanding of:
 
-Arrays
-Functions
-Recursive methods
-Polynomial operations
+Arrays,
+Functions,
+Recursive methods,
+Polynomial operations,
 Implemented Functions
 
 1. f
@@ -66,8 +66,9 @@ Computes the derivative of a polynomial.
 Multiplies the polynomial by a number.
 
 
+![WhatsApp Image 2025-12-01 at 00 56 48_44fa1b7f](https://github.com/user-attachments/assets/8fffa258-7df8-486f-96b4-aac6d91820ff)
 
-![WhatsApp Image 2025-11-30 at 23 14 21_bf9b7bc5](https://github.com/user-attachments/assets/0b7bacde-b365-4139-937e-3a611bfd63fd)
+
 
 
 
